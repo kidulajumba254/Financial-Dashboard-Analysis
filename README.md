@@ -18,20 +18,22 @@ A modern financial dashboard built with Next.js, featuring a beautiful UI powere
 ### Dashboard Overview
 ![Dashboard Overview](./docs/screenshots/dashboard-overview.png)
 *Main dashboard view showing key financial metrics and charts*
+![image](https://github.com/user-attachments/assets/8834f22d-257b-41c4-a02c-842662be56a8)
+
 
 ### Dark Mode
 ![Dark Mode](./docs/screenshots/dark-mode.png)
 *Dashboard in dark mode for comfortable viewing in low-light conditions*
+![image](https://github.com/user-attachments/assets/c8dd7fe5-43e7-4f1d-a701-5784861dc2be)
+
 
 ### Mobile View
 ![Mobile Responsive](./docs/screenshots/mobile-view.png)
 *Responsive design that works seamlessly on mobile devices*
+![image](https://github.com/user-attachments/assets/f36437ce-bd33-4fa6-9c1d-4ecdc108a582)
 
-> Note: To add your own screenshots:
-> 1. Create a `docs/screenshots` directory in your project root
-> 2. Take screenshots of your running dashboard
-> 3. Save them as `dashboard-overview.png`, `dark-mode.png`, and `mobile-view.png`
-> 4. Replace the placeholder images in this README
+
+
 
 ## Tech Stack
 
@@ -99,23 +101,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kidulajesse-gmailcoms-projects/v0-financial-dashboard-analysis)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/nvgqoyqPkxq)
 
-## Overview
 
-This repository will stay is in sync with my deployed chats on [v0.dev](https://v0.dev).
-Any changes I make to my deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
-
-## Deployment
-
-The project is live at:
-
-**[https://vercel.com/kidulajesse-gmailcoms-projects/v0-financial-dashboard-analysis](https://vercel.com/kidulajesse-gmailcoms-projects/v0-financial-dashboard-analysis)**
-
-## Build your app
-
-## How It Works
-
-1. Create and modify the project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
->>>>>>> bd06a5c2b0197d349f10bba0928606fd5c7ef801
