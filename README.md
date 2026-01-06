@@ -4,14 +4,14 @@ A modern financial dashboard built with Next.js, featuring a beautiful UI powere
 
 ## Features
 
-- 📊 Interactive financial data visualization
-- 🎨 Modern and responsive UI using Radix UI components
-- 🌙 Built-in dark mode support
-- 📱 Mobile-friendly design
-- 🚀 Fast performance with Next.js
-- 🎯 TypeScript for type safety
-- 🌍 Kenyan-inspired design elements and color scheme
-- 📱 Fully responsive navigation with mobile menu
+-  Interactive financial data visualization
+-  Modern and responsive UI using Radix UI components
+-  Built-in dark mode support
+-  Mobile-friendly design
+-  Fast performance with Next.js
+-  TypeScript for type safety
+-  Kenyan-inspired design elements and color scheme
+-  Fully responsive navigation with mobile menu
 
 ## Screenshots
 
